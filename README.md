@@ -1,2 +1,2 @@
 # Amali1
-Buat 10 branches
+Amali ini pelajar membuat branch
